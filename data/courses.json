@@ -91,7 +91,7 @@
           "is_trending": true
         },
         "category_id": "03",
-        "rating": { "number": 4.2, "badge": "Good" },
+        "rating": { "number": 4.4, "badge": "Good" },
         "enroll_student": 2070,
         "title": "Advanced Machine Learning Crash Course",
         "teacher": {
@@ -182,7 +182,7 @@
         "title": "Why we need to think about Robotics",
         "teacher": {
           "name": "Anik Biswas",
-          "last_enroll_date": "2023-09-29 19:27:34",
+          "last_enroll_date": "2023-09-29 19:29:34",
           "img": "https://media-exp1.licdn.com/dms/image/C4D03AQGLG1xbNVbrPQ/profile-displayphoto-shrink_800_800/0/1624433442051?e=2147483647&v=beta&t=e-HvSmtcrnDYlpS4az7-eaab8dH9ie-wy9Y_G5q-h3Y"
         },
         "thumbnail_url": "https://aptech-education.com.pk/images/robo.jpg",
@@ -196,7 +196,7 @@
         "category_id": "06",
         "rating": { "number": 4.9, "badge": "Good" },
         "enroll_student": 1288,
-        "title": "Advanced Robotics with AI",
+        "title": "Advanced Robotics with AI(Advanced)",
         "teacher": {
           "name": "Soumya Das",
           "last_enroll_date": "2022-01-29 17:27:34",
