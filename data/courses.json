@@ -61,7 +61,7 @@
         "enroll_student": 1008,
         "title": "Advanced Computer Networking.",
         "teacher": {
-          "name": "Md Amanul",
+          "name": "Md Amanul Kabir",
           "last_enroll_date": "2022-10-25 17:27:34",
           "img": "https://www.tstc.edu/wp-content/uploads/2021/03/E.Palacios-1-300x300-1.jpg"
         },
@@ -196,7 +196,7 @@
         "category_id": "06",
         "rating": { "number": 4.9, "badge": "Good" },
         "enroll_student": 1288,
-        "title": "Advanced Robotics with AI(Advanced)",
+        "title": "Advanced Robotics with AI",
         "teacher": {
           "name": "Soumya Das",
           "last_enroll_date": "2022-01-29 17:27:34",
