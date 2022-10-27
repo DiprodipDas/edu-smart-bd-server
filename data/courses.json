@@ -75,7 +75,7 @@
         },
         "category_id": "03",
         "rating": { "number": 4.7, "badge": "Great" },
-        "enroll_student": 688,
+        "enroll_student": 678,
         "title": "Fundamentals of Machine Learning",
         "teacher": {
           "name": "Md Jubayer",
@@ -92,7 +92,7 @@
         },
         "category_id": "03",
         "rating": { "number": 4.2, "badge": "Good" },
-        "enroll_student": 2000,
+        "enroll_student": 2070,
         "title": "Advanced Machine Learning Crash Course",
         "teacher": {
           "name": "Anik Saha",
@@ -110,11 +110,11 @@
         },
         "category_id": "04",
         "rating": { "number": 5.0, "badge": "Excellent" },
-        "enroll_student": 6000,
+        "enroll_student": 6050,
         "title": "Basic to Advanced web development",
         "teacher": {
           "name": "Jhankar Mahbub",
-          "last_enroll_date": "2023-05-29 17:27:55",
+          "last_enroll_date": "2023-05-29 18:27:55",
           "img": "https://yt3.ggpht.com/ytc/AMLnZu-QHJPJL38XCYs6Zj8Fq2LytPQlDdZEKAdCatuhTw=s900-c-k-c0x00ffffff-no-rj"
         },
         "thumbnail_url": "https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg",
@@ -148,7 +148,7 @@
         "title": "Basic Android App Development",
         "teacher": {
           "name": "Nill Hasan",
-          "last_enroll_date": "2022-04-29 14:27:34",
+          "last_enroll_date": "2022-05-29 14:27:34",
           "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRezdD0QSyYDsWbre5E-oBC88Wqx6tHXGGmf6usEWtQa5qncNSwmN_eFzeKMemuTmWHzQ8&usqp=CAU"
         },
         "thumbnail_url": "https://tateeda.com/wp-content/uploads/2020/10/1-14.jpg",
