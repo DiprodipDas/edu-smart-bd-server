@@ -128,7 +128,7 @@
         "category_id": "04",
         "rating": { "number": 4.7, "badge": "Good" },
         "enroll_student": 1188,
-        "title": "Think with Redux",
+        "title": "Think with Redux(Advanced)",
         "teacher": {
           "name": "Sumit Saha",
           "last_enroll_date": "2022-04-29 18:27:34",
@@ -144,7 +144,7 @@
         },
         "category_id": "05",
         "rating": { "number": 4.5, "badge": "Good" },
-        "enroll_student": 2002,
+        "enroll_student": 2062,
         "title": "Basic Android App Development",
         "teacher": {
           "name": "Nill Mahmud",
