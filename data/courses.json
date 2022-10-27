@@ -1,0 +1,211 @@
+[
+    {
+      "_id": "101",
+      "others_info": {
+        "is_trending": true
+      },
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "enroll_student": 488,
+      "title": "Basic to advanced c programming",
+      "teacher": {
+        "name": "Anisul Islam",
+        "last_enroll_date": "2022-08-24 17:27:34",
+        "img": "https://avatars.githubusercontent.com/u/28184926?v=4"
+      },
+      "thumbnail_url": "https://contentstatic.techgig.com/photo/90325682.cms",
+      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+      "details": "As a fundamental subject, this course equips the students with theory and practice on problem solvingtechniques by using the structured approach. Students are required to develop programs using Cprogramming language, in order to solve simple to moderate problems. The course covers the following:preprocessor directives, constants and variables, data types, input and output statements, text files,control structures: sequential, selection and loop. It may also include arrays and basic library functions."
+    },
+    {
+      "_id": "102",
+      "others_info": {
+        "is_trending": true
+      },
+      "category_id": "01",
+      "rating": { "number": 4.0, "badge": "Good" },
+      "enroll_student": 488,
+      "title": "Basic to advanced Java programming",
+      "teacher": {
+        "name": "Raiyan Ferdous",
+        "last_enroll_date": "2022-08-24 17:27:34",
+        "img": "https://bohubrihi.com/wp-content/uploads/elementor/thumbs/Raiyan-Ferdous-Advanced-Java-Instructor-Bohubrihi-pj8r9y7iset58fhhh5vwstit272pm3old5q4stkkv4.png"
+      },
+      "thumbnail_url": "https://i.pcmag.com/imagery/articles/03mYCJkIdptJX1Soh08tBzt-1..v1630572092.jpg",
+      "details": "This course is paced to provide a solid foundation in Java™ for programmers without syntax experience in a C-based language. Intensive and hands-on, the course emphasizes becoming productive quickly as a Java programmer. Besides learning the basic structure and syntax of the language, students will also learn object-oriented principles and how they are applied in Java applications. The course then covers the I/O streams and collections API packages. This course is current to Java 7 and uses the Eclipse IDE."
+    },
+    {
+        "_id": "201",
+        "others_info": {
+          "is_trending": true
+        },
+        "category_id": "02",
+        "rating": { "number": 4.5, "badge": "Good" },
+        "enroll_student": 488,
+        "title": "Basic Computer Networking.",
+        "teacher": {
+          "name": "James Anderson",
+          "last_enroll_date": "2022-08-24 17:27:34",
+          "img": "https://media-exp1.licdn.com/dms/image/C4E03AQGiFDi5BEiTMw/profile-displayphoto-shrink_800_800/0/1544541240926?e=1671667200&v=beta&t=CZGpHas9ECfO2EYwvZGIzsyL7xiacOrHXY4n-62RpWs"
+        },
+        "thumbnail_url": "https://snabaynetworking.com/wp-content/uploads/2020/12/what-is-computer-network-1.jpg",
+        "details": "CIS151 is the first of a three-course sequence that uses the Cisco Networking Academy curriculum. The course is a comprehensive program designed to teach students networking and internetworking technology skills. It introduces networking standards, concepts, topology, media and terminology including LANs, WANs, the OSI model, cabling, IP addressing, subnetting, network hardware and various protocols. Additional material is supplied that goes beyond the scope of the Cisco curriculum."
+      },
+    {
+        "_id": "202",
+        "others_info": {
+          "is_trending": true
+        },
+        "category_id": "02",
+        "rating": { "number": 4.6, "badge": "Good" },
+        "enroll_student": 1008,
+        "title": "Advanced Computer Networking.",
+        "teacher": {
+          "name": "Md Amanul",
+          "last_enroll_date": "2022-10-25 17:27:34",
+          "img": "https://www.tstc.edu/wp-content/uploads/2021/03/E.Palacios-1-300x300-1.jpg"
+        },
+        "thumbnail_url": "https://www.computernetworkingnotes.org/images/networking-tutorials/nt03-10-server-client-network.png",
+        "details": "Whether you are looking to start a career in networking or to progress in your current career, we have designed this course with the most relevant and state of the art developments to give you practical technical experience in the domain of enterprise network design, penetration testing, network automation and more.We have also taken an applied approach to incorporating research as part of the course, so for those interested in research careers and PhD studentships, this would be a strong stepping-stone.Throughout the course, you will have access to our advanced labs with racks of networking devices as well as our online NetLab system which gives you the ability to access real networking hardware from anywhere via internet. This gives you flexibility to work and practice around your own schedule."
+      },
+    {
+        "_id": "301",
+        "others_info": {
+          "is_trending": true
+        },
+        "category_id": "03",
+        "rating": { "number": 4.7, "badge": "Great" },
+        "enroll_student": 688,
+        "title": "Fundamentals of Machine Learning",
+        "teacher": {
+          "name": "Md Jubayer",
+          "last_enroll_date": "2023-12-25 17:27:34",
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcX_uWAG5-H8AIDsrXiIT37wdv7d5xjdCfGg&usqp=CAU"
+        },
+        "thumbnail_url": "https://www.simplilearn.com/ice9/free_resources_article_thumb/Deep-Learning-vs-Machine-Learning.jpg",
+        "details": "This course covers the basic concepts and techniques of Machine Learning from both theoretical and practical perspective. The material includes classical ML approaches such as Linear Regression and Decision Trees, more advanced approaches as Clustering and Association Rules as well as “hot” topics such as XGBoost. The students will be able to experiment with implementations of almost all algorithms discussed in class using meaningfully crafted Jupyter notebooks and practice quizzes."
+      },
+    {
+        "_id": "302",
+        "others_info": {
+          "is_trending": true
+        },
+        "category_id": "03",
+        "rating": { "number": 4.2, "badge": "Good" },
+        "enroll_student": 2000,
+        "title": "Advanced Machine Learning Crash Course",
+        "teacher": {
+          "name": "Anik Saha",
+          "last_enroll_date": "2022-09-29 13:28:34",
+          "img": "https://jindal.utdallas.edu/files/2022/08/Paul-Cheung-Featured.jpg"
+        },
+        "thumbnail_url": "https://www.securityroundtable.org/wp-content/uploads/2019/06/machine-learning.png",
+        "details": "Are you interested in machine learning? Then, this course is right for you!This course is designed by two professional data scientists so that we can share our knowledge and help you easily learn complex theories, algorithms and coding libraries.Take you step by step into the world of machine learning. In each tutorial, you will develop new skills and improve your understanding of the challenging but lucrative part of data science. This course is fun and exciting, but at the same time, we learned more about machine learning."
+      },
+      
+    {
+        "_id": "401",
+        "others_info": {
+          "is_trending": true
+        },
+        "category_id": "04",
+        "rating": { "number": 5.0, "badge": "Excellent" },
+        "enroll_student": 6000,
+        "title": "Basic to Advanced web development",
+        "teacher": {
+          "name": "Jhankar Mahbub",
+          "last_enroll_date": "2023-05-29 17:27:55",
+          "img": "https://yt3.ggpht.com/ytc/AMLnZu-QHJPJL38XCYs6Zj8Fq2LytPQlDdZEKAdCatuhTw=s900-c-k-c0x00ffffff-no-rj"
+        },
+        "thumbnail_url": "https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg",
+        "details": "The Web Design Specialist course teaches you how to design and publish Web sites. General topics include Web Site Development Essentials (such as the site development process, customer expectations,and ethical and legal issues in Web development), Web Design Elements (such as aesthetics, the site user's experience, navigation, usability and accessibility), Basic Web Technologies (such as basic Hypertext Markup Language [HTML], Extensible HTML [XHTML] and extended technologies, image files,GUI site development applications, site publishing and maintenance) and Advanced Web Technologies(such as multimedia and plug-in technologies, client-side and server-side technologies, and Web databases). "
+      },
+    {
+        "_id": "402",
+        "others_info": {
+          "is_trending": true
+        },
+        "category_id": "04",
+        "rating": { "number": 4.7, "badge": "Good" },
+        "enroll_student": 1188,
+        "title": "Think with Redux",
+        "teacher": {
+          "name": "Sumit Saha",
+          "last_enroll_date": "2022-04-29 18:27:34",
+          "img": "https://avatars.githubusercontent.com/u/1416832?v=4"
+        },
+        "thumbnail_url": "https://redux.js.org/img/redux-logo-landscape.png",
+        "details": "This course builds on top of your JavaScript and React knowledge. You’ll start with fundamental concepts like reducers, stores, and actions, then move on to advanced topics like slices and middleware.End of the course you will be able to totally know about the four major libraries of redux whichh are,1.Redux 2.React-Redux 3.Redux-toolkit 4.Redux thunk"
+      },
+    {
+        "_id": "501",
+        "others_info": {
+          "is_trending": true
+        },
+        "category_id": "05",
+        "rating": { "number": 4.5, "badge": "Good" },
+        "enroll_student": 2002,
+        "title": "Basic Android App Development",
+        "teacher": {
+          "name": "Nill Mahmud",
+          "last_enroll_date": "2022-04-29 14:27:34",
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRezdD0QSyYDsWbre5E-oBC88Wqx6tHXGGmf6usEWtQa5qncNSwmN_eFzeKMemuTmWHzQ8&usqp=CAU"
+        },
+        "thumbnail_url": "https://tateeda.com/wp-content/uploads/2020/10/1-14.jpg",
+        "details": "This Android training course is designed to quickly get you up to speed how to make Android apps for Android devices. This Android development training course will teach you the basis of the Android platform and the application lifecycle. You will be able to write simple GUI applications, use built-in widgets and components, work with the database to store data locally, and much more by the end of this Android training course course."
+      },
+    {
+        "_id": "502",
+        "others_info": {
+          "is_trending": true
+        },
+        "category_id": "05",
+        "rating": { "number": 4.5, "badge": "Good" },
+        "enroll_student": 488,
+        "title": "Advanced Android App Development",
+        "teacher": {
+          "name": "Akbar Ali",
+          "last_enroll_date": "2022-01-29 17:27:34",
+          "img": "https://uploads-ssl.webflow.com/62a0947d4f8a8a2bff17d627/62a470d1ebc0ae81744461a6_Jannick.png"
+        },
+        "thumbnail_url": "https://dashwire.com/wp-content/uploads/2022/04/the-complete-guide-to-mobile-app-development-2021.png",
+        "details": "Ready to level-up your skills as an Android developer? In this course, you will learn how to make your app production-ready by developing a variety of different sample apps, each designed to showcase advanced capabilities of the Android platform, including fragments, widgets, media playback, and testing. You’ll learn how to create UI tests using the Espresso framework, to leverage third-party libraries and services like ExoPlayer and Firebase Cloud Messaging, and use Google APIs to make your app aware of its location. By the end of the course, you’ll know how to publish your own app to the Google Play Store, where you can reach and engage users across the globe."
+      },
+    {
+        "_id": "601",
+        "others_info": {
+          "is_trending": true
+        },
+        "category_id": "06",
+        "rating": { "number": 4.6, "badge": "Good" },
+        "enroll_student": 1668,
+        "title": "Why we need to think about Robotics",
+        "teacher": {
+          "name": "Anik Biswas",
+          "last_enroll_date": "2023-09-29 19:27:34",
+          "img": "https://media-exp1.licdn.com/dms/image/C4D03AQGLG1xbNVbrPQ/profile-displayphoto-shrink_800_800/0/1624433442051?e=2147483647&v=beta&t=e-HvSmtcrnDYlpS4az7-eaab8dH9ie-wy9Y_G5q-h3Y"
+        },
+        "thumbnail_url": "https://aptech-education.com.pk/images/robo.jpg",
+        "details": "In this course we know about the basic fundamentals of robotics with some project.We all know thak in this time robotics takes a huge space in the market of digital technology.So in this course we try to guide you with providing some fundamental knowledge about robotics."
+      },
+    {
+        "_id": "602",
+        "others_info": {
+          "is_trending": true
+        },
+        "category_id": "06",
+        "rating": { "number": 4.9, "badge": "Good" },
+        "enroll_student": 1228,
+        "title": "Advanced Robotics with AI",
+        "teacher": {
+          "name": "Soumya Das",
+          "last_enroll_date": "2022-01-29 17:27:34",
+          "img": "https://innov8hub.ng/wp-content/uploads/2022/01/Newton-Monye-Robotics-Coding.jpg"
+        },
+        "thumbnail_url": "https://roboticstechno.com/img/ind/17.jpg",
+        "details": "Today’s new generation of sophisticated workforce robots act across business functions, integrate cloud and legacy applications, and are self-managing, scalable and fully dynamic. This course is an introduction into the fundamentals of Robotic Process Automation (RPA) and how it is transforming the world by combining software robotics with the power of artificial intelligence (AI) and machine learning (ML).  RPA is software-based robotics that emulate the repetitive work that people do. RPA is changing the way organizations digitize and transform business processes and how they interact with their employees, customers and competitors."
+      }
+
+
+
+     ]
