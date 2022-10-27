@@ -147,7 +147,7 @@
         "enroll_student": 2062,
         "title": "Basic Android App Development",
         "teacher": {
-          "name": "Nill Mahmud",
+          "name": "Nill Hasan",
           "last_enroll_date": "2022-04-29 14:27:34",
           "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRezdD0QSyYDsWbre5E-oBC88Wqx6tHXGGmf6usEWtQa5qncNSwmN_eFzeKMemuTmWHzQ8&usqp=CAU"
         },
@@ -161,7 +161,7 @@
         },
         "category_id": "05",
         "rating": { "number": 4.5, "badge": "Good" },
-        "enroll_student": 488,
+        "enroll_student": 418,
         "title": "Advanced Android App Development",
         "teacher": {
           "name": "Akbar Ali",
@@ -195,7 +195,7 @@
         },
         "category_id": "06",
         "rating": { "number": 4.9, "badge": "Good" },
-        "enroll_student": 1228,
+        "enroll_student": 1288,
         "title": "Advanced Robotics with AI",
         "teacher": {
           "name": "Soumya Das",
